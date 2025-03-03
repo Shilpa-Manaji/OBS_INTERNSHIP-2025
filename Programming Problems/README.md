@@ -5,7 +5,7 @@
 - [Overview](#-overview)
 - [Technology Stack](#technology-stack)
 - [Problem Statements & Solutions](#-problem-statements--solutions)
-  - [1. Sum of Digits - The Magical Book](#-1.-sum-of-digits---the-magical-book)
+  - [1. Sum of Digits - The Magical Book](#1.-Sum of Digits-_The-Magical-Book_)
   - [2. Temperature Converter - The Weather Scientist](#-2.-temperature-converter---the-weather-scientist)
   - [3. Check for Palindrome - The Time Machine Code](#-3.-check-for-palindrome---the-time-machine-code)
   - [4. Fibonacci Series - The Alien Signal](#-4.-fibonacci-series---the-alien-signal)
