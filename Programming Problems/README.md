@@ -42,9 +42,9 @@ that asks her to find the sum of the digits of a number. Only by solving it can 
 - Implemented a Python function to compute the sum of an integer’s digits i.e dig.
 - Used **basic arithmetic operations** for calculations.
 
-**Technologies Used:**
+  **Programming Language**:
 
-- [Python](https://www.python.org/)
+  - [Python 3.x](https://www.python.org/)
 
 ---
 
@@ -60,9 +60,9 @@ unit, and converts it to the other uni
 - Created a Python function called converter that detects the unit and **performs conversion**.
 - Utilized **mathematical formulas** and conditional logic.
 
-**Technologies Used:**
+**Programming Language**:
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 
 ---
 
@@ -78,9 +78,9 @@ forward and backward).
 - Implemented a palindrome function to **check if a string is a palindrome or not**.
 - Used **string manipulation**.
 
-**Technologies Used:**
+**Programming Language**:
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 
 ---
 
@@ -95,9 +95,9 @@ forward and backward).
 - Implemented both **iterative and recursive** methods to generate Fibonacci numbers.
 - Optimized performance using **memoization**.
 
-**Technologies Used:**
+**Programming Language**:
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 
 ---
 
@@ -112,9 +112,9 @@ consonants in it.
 
 - Developed a function that counts **vowels and consonants** from a given text using list of vowels.
 
-**Technologies Used:**
+**Programming Language**:
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 
 ---
 
@@ -128,9 +128,9 @@ consonants in it.
 
 - Used **sorting** and **slicing** to determine the second largest number.
 
-**Technologies Used:**
+**Programming Language**:
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 
 ---
 
