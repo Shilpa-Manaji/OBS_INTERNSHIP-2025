@@ -95,7 +95,6 @@ face-recognition-models==0.3.0
 fastjsonschema @ file:///C:/ci_311/python-fastjsonschema_1679500568724/work
 filelock @ file:///C:/ci_311/filelock_1676427284139/work
 flake8 @ file:///C:/ci_311/flake8_1678376624746/work
-Flask==3.1.0
 Flask-Cors==4.0.1
 flatbuffers==24.3.25
 fonttools==4.25.0
