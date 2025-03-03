@@ -246,7 +246,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/yourusername/OBS_internship.git
-   cd python programming
+   cd Programming Problems
    ```
 
 2. **Install Dependencies**
@@ -261,7 +261,7 @@ Ensure you have the following installed:
 
    ```
    OBS_internship-2025/
-   ├── Python programming/
+   ├── Programming Problems/
    │   ├── task.ipynb
    │   ├── README.md
    │   └── requirements.txt
