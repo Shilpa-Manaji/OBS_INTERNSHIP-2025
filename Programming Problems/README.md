@@ -270,7 +270,7 @@ Ensure you have the following installed:
    Your project should have the following structure:
 
    ```
-   OBS_internship/
+   OBS_internship-2025/
    ├── Python programming/
    │   ├── task.ipynb
    │   ├── README.md
