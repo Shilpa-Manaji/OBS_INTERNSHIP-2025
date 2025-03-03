@@ -146,7 +146,7 @@ consonants in it.
 
 **Technologies Used:**
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 
 ---
@@ -164,7 +164,7 @@ consonants in it.
 
 **Technologies Used:**
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 - [Matplotlib](https://matplotlib.org/)
 
 ---
@@ -187,7 +187,7 @@ consonants in it.
 
 **Technologies Used:**
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 
 ---
@@ -209,7 +209,7 @@ consonants in it.
 
 **Technologies Used:**
 
-- [Python](https://www.python.org/)
+- [Python 3.x](https://www.python.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [NumPy](https://numpy.org/)
 
