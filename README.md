@@ -44,8 +44,8 @@ pip install pandas numpy matplotlib
 ### 📌 Running Tasks
 
 ```bash
-python python_basics.py  # Python Programming Task
-python data_cleaning.py  # FIFA 21 Data Cleaning Task
+python python_basics.ipynb  # Python Programming Task
+python data_cleaning.ipynb  # FIFA 21 Data Cleaning Task
 ```
 
 ---
