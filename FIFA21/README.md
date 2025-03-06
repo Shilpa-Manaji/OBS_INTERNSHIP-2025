@@ -42,7 +42,7 @@ The **FIFA 21 Data Cleaning Task** aims to preprocess and refine the FIFA 21 dat
 We utilize the following tools and libraries:
 
 - **Programming Language**: [Python 3.x](https://www.python.org/)
-- **Data Cleaning**: [Pandas](https://pandas.pydata.org/), Regex, Feature Engineering
+- **Data Cleaning**: [Pandas](https://pandas.pydata.org/)
 - **Version Control**: [Git](https://git-scm.com/)
 - **Development Environment**: [Jupyter Notebooks](https://jupyter.org/)
 
