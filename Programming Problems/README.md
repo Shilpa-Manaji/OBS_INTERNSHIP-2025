@@ -262,7 +262,7 @@ Ensure you have the following installed:
    ```
    OBS_internship-2025/
    ├── Programming Problems/
-   │   ├── task.ipynb
+   │   ├── python_basics.ipynb
    │   ├── README.md
    │   └── requirements.txt
    ```
