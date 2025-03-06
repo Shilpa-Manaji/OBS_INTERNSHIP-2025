@@ -2,36 +2,34 @@
 
 ## 🌟 Introduction
 
-As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21. This experience helps us develop essential data-handling skills crucial for machine learning and AI applications.
+As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21.
 
----
+## 🖥️ Task 1: Python Programming
 
-## ✔️ Task 1: Python Programming
-
-1️⃣ **Sum of Digits** - _The Magical Book_  
-2️⃣ **Temperature Converter** - _The Weather Scientist_  
-3️⃣ **Check for Palindrome** - _The Time Machine Code_  
-4️⃣ **Fibonacci Series** - _The Alien Signal_  
-5️⃣ **Count Vowels and Consonants** - _The Cryptic Scroll_  
-6️⃣ **Find the Second Largest Number** - _The Treasure Hunt_  
-7️⃣ **Matrix Multiplication** - _The Quantum Experiment_  
-8️⃣ **Data Visualization** - _Election Poll Analysis_  
-9️⃣ **Data Cleaning and Transformation** - _The Football Analyst_  
-🔟 **Data Visualization** - _The Meteorologist’s Report_
+✅ **Sum of Digits** - _The Magical Book_  
+✅ **Temperature Converter** - _The Weather Scientist_  
+✅ **Check for Palindrome** - _The Time Machine Code_  
+✅ **Fibonacci Series** - _The Alien Signal_  
+✅ **Count Vowels and Consonants** - _The Cryptic Scroll_  
+✅ **Find the Second Largest Number** - _The Treasure Hunt_  
+✅ **Matrix Multiplication** - _The Quantum Experiment_  
+✅ **Data Visualization** - _Election Poll Analysis_  
+✅ **Data Cleaning and Transformation** - _The Football Analyst_  
+✅ **Data Visualization** - _The Meteorologist’s Report_
 
 ---
 
 ## 🧹 Task 2: FIFA 21 Data Cleaning
 
-1️⃣ **Load Dataset**  
-2️⃣ **Check & Handle Missing Values**  
-3️⃣ **Detect & Remove Duplicates**  
-4️⃣ **Convert Data Types**  
-5️⃣ **Standardize Formatting**  
-6️⃣ **Drop Irrelevant Columns**  
-7️⃣ **Fix Structural Inconsistencies**  
-8️⃣ **Detect & Handle Outliers**  
-9️⃣ **Validate Cleaned Data**
+✅ **Load Dataset**  
+✅ **Check & Handle Missing Values**  
+✅ **Detect & Remove Duplicates**  
+✅ **Convert Data Types**  
+✅ **Standardize Formatting**  
+✅ **Drop Irrelevant Columns**  
+✅ **Fix Structural Inconsistencies**  
+✅ **Detect & Handle Outliers**  
+✅ **Validate Cleaned Data**
 
 ---
 
