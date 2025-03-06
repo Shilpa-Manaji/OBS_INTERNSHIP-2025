@@ -60,8 +60,8 @@ We utilize the following tools and libraries:
 
 - Identify columns with missing data using `.isnull().sum()`.
 - Strategies:
-  - Drop columns with excessive missing data.
-  - Impute missing values with mean/median/mode.
+  - Drop columns with excessive missing data such as 'Loaned From', 'Marking'.
+  - Imputed missing values with mean.
 
 ### 3️⃣ Remove Duplicates
 
