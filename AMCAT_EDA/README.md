@@ -88,7 +88,7 @@ Ensure you have the necessary dependencies installed before running the notebook
 
    ```bash
    git clone https://github.com/yourusername/OBS_internship.git
-   cd Programming Problems
+   cd AMCAT_EDA
    ```
 
 2. **Install Dependencies**
