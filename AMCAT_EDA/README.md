@@ -13,7 +13,7 @@ EDA is an essential step in the data science pipeline that helps in:
 
 By leveraging various statistical techniques and visualization tools, EDA ensures that the dataset is clean, structured, and ready for further processing.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### 📌 Programming Language:
 
@@ -31,7 +31,9 @@ By leveraging various statistical techniques and visualization tools, EDA ensure
 
 - **Jupyter Notebook** – Interactive computing and analysis.
 
-## ✨ Key Features
+---
+
+## ✨ Steps
 
 ✔️ **Data Loading & Inspection** – Understanding dataset structure and attributes.  
 ✔️ **Checking Missing Values** – Identifying and handling missing data.  
@@ -40,9 +42,13 @@ By leveraging various statistical techniques and visualization tools, EDA ensure
 ✔️ **Data Visualization** – Graphical insights using Matplotlib & Seaborn.  
 ✔️ **Summary Statistics & Key Observations** – Extracting meaningful conclusions.
 
+---
+
 ## 📂 Dataset
 
 Make sure the dataset file is placed in the correct directory before running the notebook. If required, update the dataset path accordingly inside the notebook.
+
+---
 
 ## 📊 Visualizations Included
 
@@ -52,6 +58,8 @@ Make sure the dataset file is placed in the correct directory before running the
 - **Swarmplots, Boxplots & Barplots** – Examining the relationship between categorical and numerical variables.
 - **Stacked Bar Plots** – Comparing categorical variables.
 - **Bar Charts** – Representing categorical data effectively.
+
+---
 
 ## ⚡ Prerequisites
 
@@ -70,13 +78,7 @@ pip install pandas numpy matplotlib seaborn scipy
 
 Ensure you have the necessary dependencies installed before running the notebook:
 
-## 🚀 Usage
-
-1. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook EDA.ipynb
-   ```
-2. Run the cells sequentially to explore the dataset.
+---
 
 ### 📚 Setup Instructions for Jupyter Notebook
 
