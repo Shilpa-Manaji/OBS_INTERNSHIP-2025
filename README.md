@@ -33,10 +33,6 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-Your README currently includes tasks for **Python Programming** and **FIFA 21 Data Cleaning**. To add **EDA (Exploratory Data Analysis)**, you can structure it like this:
-
----
-
 ## 📊 Task 3: Exploratory Data Analysis (EDA)
 
 ✅ **Understand Dataset Structure** (Shape, Columns, Data Types)  
@@ -64,5 +60,3 @@ jupyter notebook data_cleaning.ipynb  # FIFA 21 Data Cleaning Task
 jupyter notebook EDA.ipynb  # Exploratory Data Analysis Task
 
 ```
-
----
