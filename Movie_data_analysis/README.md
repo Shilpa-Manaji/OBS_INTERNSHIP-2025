@@ -1,7 +1,5 @@
 # 🎬 Movie Ratings Analysis & IMDb Scraper
 
----
-
 ## 📖 Overview
 
 This project analyzes movie ratings from the **Movie dataset** and enriches it with external IMDb ratings using web scraping. The goal is to identify top-rated movies and compare user ratings with IMDb ratings.
@@ -160,8 +158,6 @@ Ensure you have the necessary dependencies installed before running the project.
    jupyter notebook
    ```
 
-```
-
 - This will open Jupyter Notebook in your browser.
 - Navigate to the `notebooks/` folder and open the `data_analysis.ipynb` file.
 
@@ -170,4 +166,3 @@ Ensure you have the necessary dependencies installed before running the project.
    - Execute each cell sequentially to complete the analysis.
 
 ---
-```
