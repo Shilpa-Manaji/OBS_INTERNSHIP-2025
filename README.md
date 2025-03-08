@@ -105,7 +105,7 @@ OBS_INTERNSHIP-2025/
 
 ```
 OBS_INTERNSHIP-2025/
-   ├── Movie-data-analysis/
+   ├── Movie_data_analysis/
    │     ├──raw_data/
    │     │  ├── movies.csv
    │     │  ├── ratings.csv
@@ -123,7 +123,7 @@ OBS_INTERNSHIP-2025/
 ### 📌 Prerequisites
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
+pip install pandas numpy matplotlib seaborn scipy beautifulsoup requests
 ```
 
 ### 📌 Running Tasks
@@ -132,7 +132,7 @@ pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
 jupyter notebook python_basics.ipynb        # Python Programming Task
 jupyter notebook data_cleaning.ipynb        # FIFA 21 Data Cleaning Task
 jupyter notebook EDA.ipynb                  # Exploratory Data Analysis Task
-jupyter notebook movie_ratings.ipynb        # Movie Ratings Analysis Task
+jupyter notebook data_analysis.ipynb        # Movie Ratings Analysis Task
 ```
 
 ---
