@@ -44,19 +44,30 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
+## 🎬 Task 4: Movie Ratings Analysis
+
+✅ **Load Movie Dataset** (movies.csv, ratings.csv, links.csv)  
+✅ **Find Total Number of Ratings**  
+✅ **Identify Highest-Rated Movie (with at least 50 ratings)**  
+✅ **Determine Most Common Rating Given by Users**  
+✅ **Retrieve IMDb Rating of Highest-Rated Movie (via Web Scraping)**  
+✅ **Count Sci-Fi Movies with More Than 100 Ratings**
+
+---
+
 ## 🚀 Usage Guide
 
 ### 📌 Prerequisites
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy
+pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
 ```
 
 ### 📌 Running Tasks
 
 ```bash
-jupyter notebook python_basics.ipynb  # Python Programming Task
-jupyter notebook data_cleaning.ipynb  # FIFA 21 Data Cleaning Task
-jupyter notebook EDA.ipynb  # Exploratory Data Analysis Task
-
+jupyter notebook python_basics.ipynb    # Python Programming Task
+jupyter notebook data_cleaning.ipynb    # FIFA 21 Data Cleaning Task
+jupyter notebook EDA.ipynb              # Exploratory Data Analysis Task
+jupyter notebook data_analysis.ipynb    # Movie Ratings Analysis Task
 ```
