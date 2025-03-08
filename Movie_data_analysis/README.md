@@ -27,7 +27,7 @@ This project analyzes movie ratings from the **Movie dataset** and enriches it w
 - **Development Environment :** Jupyter Notebook
 - **Version Control :** Git & GitHub
 
-## 📊 Project Workflow
+## 📊 Workflow
 
 ### 1️⃣ Finding the Total Number of Ratings in the Dataset
 
