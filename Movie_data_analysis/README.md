@@ -132,8 +132,8 @@ Ensure you have the necessary dependencies installed before running the project.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Movie-data-analysis.git
-   cd Movie-data-analysis
+   git clone https://github.com/yourusername/Movie_data_analysis.git
+   cd Movie_data_analysis
    ```
 
 2. **Directory Structure**
@@ -142,7 +142,7 @@ Ensure you have the necessary dependencies installed before running the project.
 
    ```
    OBS_INTERNSHIP-2025/
-   ├── Movie-data-analysis/
+   ├── Movie_data_analysis/
    │     ├──raw_data/
    │     │  ├── movies.csv
    │     │  ├── ratings.csv
