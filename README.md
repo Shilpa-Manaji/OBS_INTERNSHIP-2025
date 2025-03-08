@@ -143,10 +143,10 @@ pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
 ### 📌 Running Tasks
 
 ```bash
-jupyter notebook python_basics.ipynb  # Python Programming Task
-jupyter notebook data_cleaning.ipynb  # FIFA 21 Data Cleaning Task
-jupyter notebook EDA.ipynb  # Exploratory Data Analysis Task
-jupyter notebook movie_ratings.ipynb  # Movie Ratings Analysis Task
+jupyter notebook python_basics.ipynb    # Python Programming Task
+jupyter notebook data_cleaning.ipynb    # FIFA 21 Data Cleaning Task
+jupyter notebook EDA.ipynb              # Exploratory Data Analysis Task
+jupyter notebook movie_ratings.ipynb    # Movie Ratings Analysis Task
 ```
 
 ---
