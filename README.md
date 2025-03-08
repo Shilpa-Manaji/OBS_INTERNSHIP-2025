@@ -129,25 +129,6 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 🚀 Usage Guide
-
-### 📌 Prerequisites
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
-```
-
-### 📌 Running Tasks
-
-```bash
-jupyter notebook python_basics.ipynb    # Python Programming Task
-jupyter notebook data_cleaning.ipynb    # FIFA 21 Data Cleaning Task
-jupyter notebook EDA.ipynb              # Exploratory Data Analysis Task
-jupyter notebook movie_ratings.ipynb    # Movie Ratings Analysis Task
-```
-
----
-
 ## 📂 Directory Structure
 
 ### 📁 **General Files**
@@ -208,3 +189,24 @@ OBS_INTERNSHIP-2025/
    │     ├── scraper.py
    │     └── README.md
 ```
+
+---
+
+## 🚀 Usage Guide
+
+### 📌 Prerequisites
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
+```
+
+### 📌 Running Tasks
+
+```bash
+jupyter notebook python_basics.ipynb    # Python Programming Task
+jupyter notebook data_cleaning.ipynb    # FIFA 21 Data Cleaning Task
+jupyter notebook EDA.ipynb              # Exploratory Data Analysis Task
+jupyter notebook movie_ratings.ipynb    # Movie Ratings Analysis Task
+```
+
+---
