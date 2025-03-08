@@ -141,15 +141,16 @@ Ensure you have the necessary dependencies installed before running the project.
    Your project should have the following structure:
 
    ```
-   Movie-Ratings-Analysis/
-   ├── raw_data/
-   │   ├── movies.csv
-   │   ├── ratings.csv
-   │   ├── tags.csv
-   │   ├── links.csv
-   ├── data_analysis.ipynb
-   ├── scraper.py
-   ├── README.md
+   OBS_INTERNSHIP-2025/
+   ├── Movie-data-analysis/
+   │     ├──raw_data/
+   │     │  ├── movies.csv
+   │     │  ├── ratings.csv
+   │     │  ├── tags.csv
+   │     │  └── links.csv
+   │     ├── data_analysis.ipynb
+   │     ├── scraper.py
+   │     └── README.md
    ```
 
 3. **Open the Jupyter Notebook**
