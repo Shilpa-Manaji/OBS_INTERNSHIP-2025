@@ -15,19 +15,19 @@ This project analyzes movie ratings from the **MovieLens dataset** and enriches 
 
 ## 📂 Dataset Files(raw_data)
 
-- 📁 `movies.csv` - Contains movie titles and genres.
-- 📁 `ratings.csv` - User ratings for different movies.
-- 📁 `tags.csv` - User-generated tags for movies.
-- 📁 `links.csv` - Mapping of **MovieLens movie IDs** to **IMDb** and **TMDb IDs**.
+- `movies.csv` - Contains movie titles and genres.
+- `ratings.csv` - User ratings for different movies.
+- `tags.csv` - User-generated tags for movies.
+- `links.csv` - Mapping of **MovieLens movie IDs** to **IMDb** and **TMDb IDs**.
 
 ## 📂 Technology Stack
 
-- Programming Language: Python 3.x
-- Data Analysis & Processing: Pandas, NumPy
-- Statistics & Machine Learning: SciPy
-- Web Scraping: BeautifulSoup, Requests
-- Development Environment: Jupyter Notebook
-- Version Control: Git & GitHub
+- **Programming Language**: Python 3.x
+- **Data Analysis & Processing**: Pandas, NumPy
+- **Statistics & Machine Learning**: SciPy
+- **Web Scraping**: BeautifulSoup, Requests
+- **Development Environment**: Jupyter Notebook
+- **Version Control**: Git & GitHub
 
 ## 📊 Project Workflow
 
@@ -132,10 +132,8 @@ Ensure you have the necessary dependencies installed before running the project.
    │   ├── ratings.csv
    │   ├── tags.csv
    │   ├── links.csv
-   ├── notebooks/
-   │   ├── data_analysis.ipynb
-   ├── scripts/
-   │   ├── scraper.py
+   ├── data_analysis.ipynb
+   ├── scraper.py
    ├── README.md
    ```
 
