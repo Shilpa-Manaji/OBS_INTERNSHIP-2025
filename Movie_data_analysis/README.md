@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This project analyzes movie ratings from the **MovieLens dataset** and enriches it with external IMDb ratings using web scraping. The goal is to identify top-rated movies and compare user ratings with IMDb ratings.
+This project analyzes movie ratings from the **Movie dataset** and enriches it with external IMDb ratings using web scraping. The goal is to identify top-rated movies and compare user ratings with IMDb ratings.
 
 ## 📌 Features
 
@@ -22,12 +22,12 @@ This project analyzes movie ratings from the **MovieLens dataset** and enriches 
 
 ## 📂 Technology Stack
 
-- **Programming Language**: Python 3.x
-- **Data Analysis & Processing**: Pandas, NumPy
-- **Statistics & Machine Learning**: SciPy
-- **Web Scraping**: BeautifulSoup, Requests
-- **Development Environment**: Jupyter Notebook
-- **Version Control**: Git & GitHub
+- **Programming Language :** Python 3.x
+- **Data Analysis & Processing :** Pandas, NumPy
+- **Statistics & Machine Learning :** SciPy
+- **Web Scraping :** BeautifulSoup, Requests
+- **Development Environment :** Jupyter Notebook
+- **Version Control :** Git & GitHub
 
 ## 📊 Project Workflow
 
@@ -80,13 +80,30 @@ from bs4 import BeautifulSoup
 import numpy as np
 
 def scrapper(imdbId):
-    id_str = str(int(imdbId)).zfill(7)  # Format IMDb ID to 7 digits
-    URL = f"https://www.imdb.com/title/tt{id_str}/"
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    response = requests.get(URL, headers=headers)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    imdb_rating = soup.find('span', class_='sc-eb51e184-1 ljxVSS')
-    return imdb_rating.text if imdb_rating else np.nan
+ id = str(int(imdbId))
+ n_zeroes = 7 - len(id)
+ new_id = "0" * n_zeroes + id
+ URL = f"https://www.imdb.com/title/tt{new_id}/"
+ print(f"Accessing URL: {URL}")  # Debug print
+
+ request_header = {
+ 'Content-Type': 'text/html; charset=UTF-8',
+ 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0)Gecko/20100101 Firefox/119.0',
+ 'Accept-Encoding': 'gzip, deflate, br'
+ }
+
+ response = requests.get(URL, headers=request_header)
+ print(f"Response status code: {response.status_code}") # Debug print
+
+ soup = BeautifulSoup(response.text, 'html.parser')
+ imdb_rating = soup.find('span', attrs={'class': 'sc-eb51e184-1ljxVSS'})
+
+ if imdb_rating:
+     print(f"Found rating: {imdb_rating.text}")
+ else:
+     print("Rating not found")
+
+ return imdb_rating.text if imdb_rating else np.nan
 ```
 
 ## 🛠 Example Usage
@@ -137,13 +154,13 @@ Ensure you have the necessary dependencies installed before running the project.
    ├── README.md
    ```
 
-````
-
 3. **Open the Jupyter Notebook**
 
    ```bash
    jupyter notebook
-````
+   ```
+
+```
 
 - This will open Jupyter Notebook in your browser.
 - Navigate to the `notebooks/` folder and open the `data_analysis.ipynb` file.
@@ -153,3 +170,4 @@ Ensure you have the necessary dependencies installed before running the project.
    - Execute each cell sequentially to complete the analysis.
 
 ---
+```
