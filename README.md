@@ -60,7 +60,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 ### 📌 Prerequisites
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy beautifulsoup4 requests
+pip install pandas numpy matplotlib seaborn scipy beautifulsoup requests
 ```
 
 ### 📌 Running Tasks
