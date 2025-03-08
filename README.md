@@ -4,7 +4,7 @@
 
 As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21.
 
-## 🖥️ Task 1: Python Programming
+## 🖥️ Task 1 : Python Programming
 
 ✅ **Sum of Digits** - _The Magical Book_  
 ✅ **Temperature Converter** - _The Weather Scientist_  
@@ -19,7 +19,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 🧹 Task 2: FIFA 21 Data Cleaning
+## 🧹 Task 2 : FIFA 21 Data Cleaning
 
 ✅ **Load Dataset**  
 ✅ **Check & Handle Missing Values**  
@@ -33,7 +33,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 📊 Task 3: Exploratory Data Analysis (EDA)
+## 📊 Task 3 : Exploratory Data Analysis (EDA)
 
 ✅ **Understand Dataset Structure** (Shape, Columns, Data Types)  
 ✅ **Descriptive Statistics** (Mean, Median, Mode, Standard Deviation)  
@@ -44,7 +44,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 🎬 Task 4: Movie Ratings Analysis
+## 🎬 Task 4 : Movie Ratings Analysis
 
 ✅ **Load Movie Dataset** (movies.csv, ratings.csv, links.csv)  
 ✅ **Find Total Number of Ratings**  
