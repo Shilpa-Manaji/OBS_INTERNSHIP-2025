@@ -76,7 +76,7 @@ jupyter notebook data_analysis.ipynb    # Movie Ratings Analysis Task
 
 ## 🌟 Introduction
 
-As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21.
+As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21, Movie.
 
 ## 🖥️ Task 1: Python Programming
 
@@ -125,10 +125,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 ✅ **Identify Highest-Rated Movie (with at least 50 ratings)**  
 ✅ **Determine Most Common Rating Given by Users**  
 ✅ **Retrieve IMDb Rating of Highest-Rated Movie (via Web Scraping)**  
-✅ **Count Sci-Fi Movies with More Than 100 Ratings**  
-✅ **Compare User Ratings with IMDb Ratings**  
-✅ **Visualize Rating Distributions** (Histograms, KDE Plots, Box Plots)  
-✅ **Extract Insights from Ratings Trends**
+✅ **Count Sci-Fi Movies with More Than 100 Ratings**
 
 ---
 
