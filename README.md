@@ -2,7 +2,14 @@
 
 ## 🌟 Introduction
 
-As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, and visualization. Our internship focuses on mastering Python programming and applying data-cleaning techniques to real-world datasets like FIFA 21, Movie.
+As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, visualization statistical modeling, and machine learning . Our internship focuses on mastering Python programming and data cleaning, exploratory data analysis (EDA), and predictive modeling using real-world datasets.
+
+### 🔖 **Datasets Used**
+
+- **FIFA 21** - Player statistics dataset
+- **AMCAT** - Employability assessment dataset
+- **MovieLens** - User movie ratings dataset
+- **Spotify Music Data** - Audio feature dataset
 
 ## 🖥️ Task 1: Python Programming
 
@@ -55,6 +62,18 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
+## 💽 Task 5: Statistical Modelling for Spotify Music Popularity Prediction
+
+✅ **Load & Explore the Dataset** (musicdata.csv)  
+✅ **Preprocess the Data** (handle missing values, normalize features)  
+✅ **Perform EDA**
+✅ **Perform Feature Selection** (energy, danceability, loudness, tempo, valence, etc.)  
+✅ **Apply Regression Model** (Linear Regression)  
+✅ **Evaluate Model Performance** (R-squared, Mean Squared Error)  
+✅ **Interpret Insights & Findings**
+
+---
+
 ## 📂 Directory Structure
 
 ### 📁 **General Files**
@@ -65,6 +84,7 @@ OBS_INTERNSHIP-2025/
 ├── FIFA21/
 ├── AMCAT_EDA/
 ├── Movie-data-analysis/
+├── Statistical_modelling/
 ├── README.md
 
 ```
@@ -116,6 +136,17 @@ OBS_INTERNSHIP-2025/
    │     └── README.md
 ```
 
+### 📁 **Statistical Modelling For Spotify Music Popularity Prediction**
+
+```
+   OBS_INTERNSHIP-2025/
+   ├── Statistical_modelling/
+   │   ├──raw_data/
+   │   │   └──musicdata.csv
+   │   ├── modeling.ipynb
+   │   ├── README.md
+```
+
 ---
 
 ## 🚀 Usage Guide
@@ -123,7 +154,7 @@ OBS_INTERNSHIP-2025/
 ### 📌 Prerequisites
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy beautifulsoup requests
+pip install pandas numpy matplotlib seaborn scipy beautifulsoup requests scikit-learn
 ```
 
 ### 📌 Running Tasks
@@ -133,6 +164,7 @@ jupyter notebook python_basics.ipynb        # Python Programming Task
 jupyter notebook data_cleaning.ipynb        # FIFA 21 Data Cleaning Task
 jupyter notebook EDA.ipynb                  # Exploratory Data Analysis Task
 jupyter notebook data_analysis.ipynb        # Movie Ratings Analysis Task
+jupyter notebook modeling.ipynb             # Statistical Modelling Task
 ```
 
 ---
