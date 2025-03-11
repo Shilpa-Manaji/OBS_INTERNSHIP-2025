@@ -62,7 +62,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 💽 Task 5: Statistical Modelling for Spotify Music Popularity Prediction
+## 🎵 Task 5: Statistical Modelling for Spotify Music Popularity Prediction
 
 ✅ **Load & Explore the Dataset** (musicdata.csv)  
 ✅ **Preprocess the Data** (handle missing values, normalize features)  
