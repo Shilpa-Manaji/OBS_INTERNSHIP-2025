@@ -66,7 +66,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ✅ **Load & Explore the Dataset** (musicdata.csv)  
 ✅ **Preprocess the Data** (handle missing values, normalize features)  
-✅ **Perform EDA**
+✅ **Perform EDA** (correlation matrix,scatter plot ,histogram)  
 ✅ **Perform Feature Selection** (energy, danceability, loudness, tempo, valence, etc.)  
 ✅ **Apply Regression Model** (Linear Regression)  
 ✅ **Evaluate Model Performance** (R-squared, Mean Squared Error)  
