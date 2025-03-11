@@ -9,9 +9,9 @@ This project aims to analyze the factors influencing the popularity of music tra
 
 ## 📌 Features
 
-- 🔄 **Data Preprocessing**: Handling missing values.
-- 🏆 **Model Training**:Training models using LinearRegression.
-- 📈 **Model Evaluation**: Calculating Mean_error_square,R2 score.
+- **Quantitative Analysis:** Investigate correlations between musical features and popularity.
+- **Predictive Modeling:** Train machine learning models to predict track popularity.
+- **Statistical Insights:** Provide recommendations for artists and producers.
 
 ## 📂 Technology Stack
 
@@ -33,7 +33,6 @@ This project aims to analyze the factors influencing the popularity of music tra
 ### 2️⃣ Handle Missing Values
 
 - Fill categorical missing values (e.g., Track Name, Artists) with `'Unknown'`.
-- For numerical features, fill missing values using **mean, median, or mode**.
 
 ### 3️⃣ Exploratory Data Analysis (EDA)
 
@@ -45,7 +44,7 @@ This project aims to analyze the factors influencing the popularity of music tra
 ### 4️⃣ Prepare the Data for Modeling
 
 - Convert **Explicit** feature into an integer (0 or 1).
-- Select key features like **Danceability, Energy, Loudness, Valence**.
+- Select key features like **Danceability, Energy, Loudness, Valence etc.**.
 - Normalize numerical features using **StandardScaler** from Scikit-learn.
 
 ### 5️⃣ Split the Data for Training & Testing
