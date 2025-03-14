@@ -2,7 +2,7 @@
 
 ## 🌟 Introduction
 
-As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, visualization statistical modeling, and machine learning . Our internship focuses on mastering Python programming and data cleaning, exploratory data analysis (EDA), and predictive modeling using real-world datasets.
+As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experience in data processing, analysis, visualization, statistical modeling, and machine learning. Our internship focuses on mastering Python programming, data cleaning, exploratory data analysis (EDA), and predictive modeling using real-world datasets.
 
 ### 🔖 **Datasets Used**
 
@@ -10,6 +10,9 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 - **AMCAT** - Employability assessment dataset
 - **MovieLens** - User movie ratings dataset
 - **Spotify Music Data** - Audio feature dataset
+- **Auto MPG Dataset** - Miles per gallon (MPG) dataset
+
+---
 
 ## 🖥️ Task 1: Python Programming
 
@@ -28,49 +31,60 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ## 🧹 Task 2: FIFA 21 Data Cleaning
 
-✅ **Load Dataset**  
-✅ **Check & Handle Missing Values**  
-✅ **Detect & Remove Duplicates**  
-✅ **Convert Data Types**  
-✅ **Standardize Formatting**  
-✅ **Drop Irrelevant Columns**  
-✅ **Fix Structural Inconsistencies**  
-✅ **Detect & Handle Outliers**  
-✅ **Validate Cleaned Data**
+- Load Dataset
+- Check & Handle Missing Values
+- Detect & Remove Duplicates
+- Convert Data Types
+- Standardize Formatting
+- Drop Irrelevant Columns
+- Fix Structural Inconsistencies
+- Detect & Handle Outliers
+- Validate Cleaned Data
 
 ---
 
 ## 📊 Task 3: Exploratory Data Analysis (EDA)
 
-✅ **Understand Dataset Structure** (Shape, Columns, Data Types)  
-✅ **Descriptive Statistics** (Mean, Median, Mode, Standard Deviation)  
-✅ **Handling Missing Values** (Check for Nulls & Decide Strategy)  
-✅ **Univariate Analysis** (Probability Density Function (PDF), Histograms, Box Plots, Count plots)  
-✅ **Bivariate Analysis** (Scatter plots, hexbin plots, pair plots, Swarmplots, boxplots, barplots, Stack plots)  
-✅ **Key Insights & Summary**
+- Understand Dataset Structure (Shape, Columns, Data Types)
+- Descriptive Statistics (Mean, Median, Mode, Standard Deviation)
+- Handling Missing Values (Check for Nulls & Decide Strategy)
+- Univariate Analysis (Probability Density Function (PDF), Histograms, Box Plots, Count plots)
+- Bivariate Analysis (Scatter plots, hexbin plots, pair plots, swarm plots, boxplots, barplots, stack plots)
+- Key Insights & Summary
 
 ---
 
 ## 🎬 Task 4: Movie Ratings Analysis
 
-✅ **Load MovieLens Dataset** (movies.csv, ratings.csv, links.csv)  
-✅ **Find Total Number of Ratings**  
-✅ **Identify Highest-Rated Movie (with at least 50 ratings)**  
-✅ **Determine Most Common Rating Given by Users**  
-✅ **Retrieve IMDb Rating of Highest-Rated Movie (via Web Scraping)**  
-✅ **Count Sci-Fi Movies with More Than 100 Ratings**
+- Load MovieLens Dataset (movies.csv, ratings.csv, links.csv)
+- Find Total Number of Ratings
+- Identify Highest-Rated Movie (with at least 50 ratings)
+- Determine Most Common Rating Given by Users
+- Retrieve IMDb Rating of Highest-Rated Movie (via Web Scraping)
+- Count Sci-Fi Movies with More Than 100 Ratings
 
 ---
 
 ## 🎵 Task 5: Statistical Modelling for Spotify Music Popularity Prediction
 
-✅ **Load & Explore the Dataset** (musicdata.csv)  
-✅ **Preprocess the Data** (handle missing values, normalize features)  
-✅ **Perform EDA** (correlation matrix,scatter plot ,histogram)  
-✅ **Perform Feature Selection** (energy, danceability, loudness, tempo, valence, etc.)  
-✅ **Apply Regression Model** (Linear Regression)  
-✅ **Evaluate Model Performance** (R-squared, Mean Squared Error)  
-✅ **Interpret Insights & Findings**
+- Load & Explore the Dataset (musicdata.csv)
+- Preprocess the Data (handle missing values, normalize features)
+- Perform EDA (correlation matrix, scatter plot, histogram)
+- Perform Feature Selection (energy, danceability, loudness, tempo, valence, etc.)
+- Apply Regression Model (Linear Regression)
+- Evaluate Model Performance (R-squared, Mean Squared Error)
+- Interpret Insights & Findings
+
+---
+
+## 🚗 Task 6: Fuel Prediction using Auto MPG Dataset
+
+- Load & Explore the Dataset (auto-mpg.csv)
+- Data Preprocessing (handle missing values, convert categorical variables)
+- Perform EDA (pair plots)
+- Feature Engineering (power_to_weight, displacement_to_cylinders)
+- Apply Regression Models (Linear Regression using TensorFlow)
+- Evaluate Model Performance (Mean Absolute Error, Loss)
 
 ---
 
@@ -85,6 +99,7 @@ OBS_INTERNSHIP-2025/
 ├── AMCAT_EDA/
 ├── Movie-data-analysis/
 ├── Statistical_modelling/
+├── Fuel_Prediction/
 ├── README.md
 
 ```
@@ -145,6 +160,16 @@ OBS_INTERNSHIP-2025/
    │   │   └──musicdata.csv
    │   ├── modeling.ipynb
    │   ├── README.md
+```
+
+### 📁 **Fuel Prediction using Auto MPG Dataset**
+
+```
+    OBS_INTERNSHIP-2025/
+    ├── Fuel_Prediction/
+    │   ├── auto-mpg.csv
+    │   ├── model_training.ipynb
+    │   ├── README.md
 ```
 
 ---
