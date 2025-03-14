@@ -132,7 +132,7 @@ Ensure you have the necessary dependencies installed before running the project.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Movie_data_analysis.git
+   git clone https://github.com/ Shilpa-Manaji/Movie_data_analysis.git
    cd Movie_data_analysis
    ```
 
