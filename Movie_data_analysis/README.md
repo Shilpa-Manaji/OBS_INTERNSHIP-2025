@@ -160,7 +160,7 @@ Ensure you have the necessary dependencies installed before running the project.
    ```
 
 - This will open Jupyter Notebook in your browser.
-- Navigate to the `notebooks/` folder and open the `data_analysis.ipynb` file.
+- Navigate and open the `data_analysis.ipynb` file.
 
 4. **Run the Code Cells**
 
