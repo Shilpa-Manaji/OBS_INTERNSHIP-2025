@@ -13,16 +13,16 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ## 🖥️ Task 1: Python Programming
 
-✅ **Sum of Digits** - _The Magical Book_  
-✅ **Temperature Converter** - _The Weather Scientist_  
-✅ **Check for Palindrome** - _The Time Machine Code_  
-✅ **Fibonacci Series** - _The Alien Signal_  
-✅ **Count Vowels and Consonants** - _The Cryptic Scroll_  
-✅ **Find the Second Largest Number** - _The Treasure Hunt_  
-✅ **Matrix Multiplication** - _The Quantum Experiment_  
-✅ **Data Visualization** - _Election Poll Analysis_  
-✅ **Data Cleaning and Transformation** - _The Football Analyst_  
-✅ **Data Visualization** - _The Meteorologist’s Report_
+- **Sum of Digits** - _The Magical Book_
+- **Temperature Converter** - _The Weather Scientist_
+- **Check for Palindrome** - _The Time Machine Code_
+- **Fibonacci Series** - _The Alien Signal_
+- **Count Vowels and Consonants** - _The Cryptic Scroll_
+- **Find the Second Largest Number** - _The Treasure Hunt_
+- **Matrix Multiplication** - _The Quantum Experiment_
+- **Data Visualization** - _Election Poll Analysis_
+- **Data Cleaning and Transformation** - _The Football Analyst_
+- **Data Visualization** - _The Meteorologist’s Report_
 
 ---
 
