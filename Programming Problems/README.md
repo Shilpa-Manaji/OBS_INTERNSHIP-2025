@@ -245,7 +245,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/OBS_internship.git
+   git clone https://github.com/Shilpa-Manaji/OBS_internship.git
    cd Programming Problems
    ```
 
@@ -274,7 +274,7 @@ Ensure you have the following installed:
    ```
 
    - This will open Jupyter Notebook in your browser.
-   - Navigate to the notebooks/ folder and open the required .ipynb file.
+   - Navigate and open the required .ipynb file.
 
 5. **Run the Code Cells**
 
