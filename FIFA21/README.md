@@ -50,50 +50,50 @@ We utilize the following tools and libraries:
 
 ## 📌Data Cleaning Steps
 
-### 1️⃣ Load the Dataset
+### 1. Load the Dataset
 
 - Read the dataset from a CSV file.
 - Display the first few rows to verify successful loading.
 - Use `.info()` and `.describe()` to understand the structure.
 
-### 2️⃣ Handle Missing Values
+### 2. Handle Missing Values
 
 - Identify columns with missing data using `.isnull().sum()`.
 - Strategies:
   - Drop columns with excessive missing data such as 'Loaned From', 'Marking'.
   - Imputed missing values with mean.
 
-### 3️⃣ Remove Duplicates
+### 3. Remove Duplicates
 
 - Detect duplicate rows using `.duplicated()`.
 
-### 4️⃣ Convert Data Types
+### 4. Convert Data Types
 
 - Identify incorrect data types.
 - Convert text-based numerical values (e.g., salaries, heights) to numeric format.
 - Format categorical variables appropriately.
 
-### 5️⃣ Standardize Formatting
+### 5. Standardize Formatting
 
 - Converted height values (e.g., “5’9”) to centimeters.
 - Converted weight values (e.g., “180lbs”) to kilograms.
 - Standardize currency values in wage and market value columns.
 
-### 6️⃣ Drop Unnecessary Columns
+### 6. Drop Unnecessary Columns
 
 - Removed irrelevant columns such as "ID", "Flag", "Club Logo".
 
-### 7️⃣ Fix Structural Inconsistencies
+### 7. Fix Structural Inconsistencies
 
 - Standardize country, club, and league names.
 - Ensure consistent formatting for player positions.
 
-### 8️⃣ Detect and Handle Outliers
+### 8. Detect and Handle Outliers
 
 - Used **Interquartile Range (IQR)** to detect extreme values.
 - Choose an capping approach to handle Outliers
 
-### 9️⃣ Validate Cleaned Data
+### 9. Validate Cleaned Data
 
 - Recheck missing values, data types, and duplicates.
 - Ensure dataset integrity for further analysis.
@@ -115,7 +115,7 @@ pip install pandas numpy matplotlib seaborn
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/OBS_INTERNSHIP-2025.git
+   git clone https://github.com/Shilpa-Manaji/OBS_INTERNSHIP-2025.git
    cd fOBS_INTERNSHIP-2025
    ```
 
@@ -139,7 +139,7 @@ pip install pandas numpy matplotlib seaborn
    ```
 
    - This will open Jupyter Notebook in your browser.
-   - Navigate to the notebooks/ folder and open the data_cleaning.ipynb file.
+   - Navigate and open the data_cleaning.ipynb file.
 
 4. **Run the Code Cells**
 
