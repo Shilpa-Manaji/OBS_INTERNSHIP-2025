@@ -56,13 +56,7 @@ This project focuses on predicting the miles per gallon (MPG) of automobiles usi
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 ```
 
-## Requirements
-
-Ensure the following Python libraries are installed:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
-```
+Ensure the above Python libraries are installed.
 
 ## Setup Instructions
 
