@@ -44,7 +44,7 @@ This project aims to analyze the factors influencing the popularity of music tra
 ### 4️⃣ Prepare the Data for Modeling
 
 - Convert **Explicit** feature into an integer (0 or 1).
-- Select key features like **Danceability, Energy, Loudness, Valence etc.**.
+- Select key features like **Danceability, Energy, Loudness, Valence ,Speechiness**.
 - Normalize numerical features using **StandardScaler** from Scikit-learn.
 
 ### 5️⃣ Split the Data for Training & Testing
