@@ -1,4 +1,4 @@
-# Auto MPG Prediction
+# Fuel Efficiency Prediction
 
 ## Overview
 
@@ -42,7 +42,7 @@ This project focuses on predicting the miles per gallon (MPG) of automobiles usi
 - Model performance is assessed using various metrics.
 - Visualizations of loss curves.
 
-## ⚡ Prerequisites
+## Prerequisites
 
 - **Python 3.x**
 - **Python Libraries**:
@@ -82,7 +82,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
    Your project should have the following structure:
 
    ```
-   fuel_Prediction/
+   Fuel_Prediction/
    ├──auto-mpg.csv
    ├── model_training.ipynb
    ├── README.md
@@ -97,6 +97,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 - This will open Jupyter Notebook in your browser.
 - Navigate to the `model_training.ipynb` file.
 
-5. **Run the Code Cells**
+4. **Run the Code Cells**
 
    - Execute each cell sequentially to complete the training.
