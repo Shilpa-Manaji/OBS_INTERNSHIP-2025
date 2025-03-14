@@ -82,10 +82,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
    Your project should have the following structure:
 
    ```
-   Fuel_Prediction/
-   ├──auto-mpg.csv
-   ├── model_training.ipynb
-   ├── README.md
+    OBS_INTERNSHIP-2025/
+    ├── Fuel_Prediction/
+    │   ├── auto-mpg.csv
+    │   ├── model_training.ipynb
+    │   ├── README.md
    ```
 
 3. **Open the Jupyter Notebook**
@@ -95,7 +96,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
    ```
 
 - This will open Jupyter Notebook in your browser.
-- Navigate to the `model_training.ipynb` file.
+- Navigate and open `model_training.ipynb` file.
 
 4. **Run the Code Cells**
 
