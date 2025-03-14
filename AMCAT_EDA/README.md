@@ -87,7 +87,7 @@ Ensure you have the necessary dependencies installed before running the notebook
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/OBS_internship.git
+   git clone https://github.com/Shilpa-Manaji/OBS_internship.git
    cd AMCAT_EDA
    ```
 
@@ -117,7 +117,7 @@ Ensure you have the necessary dependencies installed before running the notebook
    ```
 
    - This will open Jupyter Notebook in your browser.
-   - Navigate to the notebooks/ folder and open the EDA.ipynb file.
+   - Navigate and open the EDA.ipynb file.
    - This will open Jupyter Notebook in your browser.
 
 5. **Run the Code Cells**
