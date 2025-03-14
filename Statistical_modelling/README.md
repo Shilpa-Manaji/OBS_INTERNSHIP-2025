@@ -24,44 +24,44 @@ This project aims to analyze the factors influencing the popularity of music tra
 
 ## 📊 Workflow
 
-### 1️⃣ Load and Explore the Dataset
+### 1. Load and Explore the Dataset
 
 - Use **Pandas** to load and inspect the dataset.
 - Check for missing values and data types using `.info()`.
 - Drop irrelevant columns (e.g., index columns).
 
-### 2️⃣ Handle Missing Values
+### 2. Handle Missing Values
 
 - Fill categorical missing values (e.g., Track Name, Artists) with `'Unknown'`.
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
 - Create a **correlation matrix** to examine relationships between numerical features.
 - Visualize trends with **scatter plots** (e.g., Danceability vs. Popularity).
 - Analyze distribution of popularity scores with **histograms/KDE plots**.
 - Segment data based on **Explicit content** and analyze its impact.
 
-### 4️⃣ Prepare the Data for Modeling
+### 4. Prepare the Data for Modeling
 
 - Convert **Explicit** feature into an integer (0 or 1).
 - Select key features like **Danceability, Energy, Loudness, Valence ,Speechiness**.
 - Normalize numerical features using **StandardScaler** from Scikit-learn.
 
-### 5️⃣ Split the Data for Training & Testing
+### 5. Split the Data for Training & Testing
 
 - Use `train_test_split()` to split data into **80% training and 20% testing**.
 
-### 6️⃣ Build a Predictive Model
+### 6. Build a Predictive Model
 
 - Train a **Linear Regression model** using selected features.
 
-### 7️⃣ Evaluate the Model
+### 7. Evaluate the Model
 
 - Use **Mean Squared Error (MSE)** to measure prediction deviation.
 - Use **R² Score** to evaluate model performance.
 - Analyze model coefficients to identify most impactful features.
 
-### 8️⃣ Generate Insights & Recommendations
+### 8. Generate Insights & Recommendations
 
 - Identify **key factors** influencing track popularity.
 - Provide recommendations for optimizing track attributes (e.g., energy levels).
@@ -88,7 +88,7 @@ This project aims to analyze the factors influencing the popularity of music tra
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/OBS_INTERNSHIP-2025.git
+   git clone https://github.com/Shilpa-Manaji/OBS_INTERNSHIP-2025.git
    cd Statistical_modelling
    ```
 
