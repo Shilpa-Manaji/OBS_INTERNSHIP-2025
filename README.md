@@ -88,7 +88,7 @@ As Data Science interns at **One BOAT SOLUTION**, we are gaining hands-on experi
 
 ---
 
-## 📂 Directory Structure
+# Directory Structure
 
 ### 📁 **General Files**
 
