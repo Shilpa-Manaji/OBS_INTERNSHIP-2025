@@ -190,6 +190,7 @@ jupyter notebook data_cleaning.ipynb        # FIFA 21 Data Cleaning Task
 jupyter notebook EDA.ipynb                  # Exploratory Data Analysis Task
 jupyter notebook data_analysis.ipynb        # Movie Ratings Analysis Task
 jupyter notebook modeling.ipynb             # Statistical Modelling Task
+jupyter notebook model_training.ipynb       # Fuel Prediction Task
 ```
 
 ---
