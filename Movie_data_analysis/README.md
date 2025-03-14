@@ -29,14 +29,14 @@ This project analyzes movie ratings from the **Movie dataset** and enriches it w
 
 ## 📊 Workflow
 
-### 1️⃣ Finding the Total Number of Ratings in the Dataset
+### 1️. Finding the Total Number of Ratings in the Dataset
 
 - Load `ratings.csv` into a Pandas DataFrame.
 - Use `.shape` to get the total number of rows.
 - The first value of `.shape` represents the total number of ratings.
 - Print the result.
 
-### 2️⃣ Identifying the Movie with the Highest Average Rating (with at least 50 ratings)
+### 2️. Identifying the Movie with the Highest Average Rating (with at least 50 ratings)
 
 - Load `movies.csv` and `ratings.csv` into separate DataFrames.
 - Group ratings by `movieId` and calculate:
@@ -47,13 +47,13 @@ This project analyzes movie ratings from the **Movie dataset** and enriches it w
 - Retrieve the movie title using its `movieId`.
 - Print the movie title.
 
-### 3️⃣ Determining the Most Common Rating Given by Users
+### 3️. Determining the Most Common Rating Given by Users
 
 - Load `ratings.csv` into a Pandas DataFrame.
 - Use `.mode()` on the `rating` column to determine the most frequently occurring rating.
 - Print the most common rating.
 
-### 4️⃣ Retrieving the IMDb Rating of the Highest-Rated Movie
+### 4️. Retrieving the IMDb Rating of the Highest-Rated Movie
 
 - Follow the steps from **Step 2** to identify the highest-rated movie.
 - Load `links.csv`, which contains IMDb IDs for movies.
@@ -62,7 +62,7 @@ This project analyzes movie ratings from the **Movie dataset** and enriches it w
 - Use **web scraping** to retrieve the IMDb rating (see Scraper Code below).
 - Print the IMDb rating.
 
-### 5️⃣ Counting Sci-Fi Movies with More Than 100 Ratings
+### 5️. Counting Sci-Fi Movies with More Than 100 Ratings
 
 - Load `movies.csv` and `ratings.csv`.
 - Merge them to have both ratings and genre information in a single DataFrame.
